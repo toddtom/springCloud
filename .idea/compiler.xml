@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="configClient" />
+        <module name="configServer" />
+        <module name="eureka-server" />
+        <module name="eurekaClient" />
+        <module name="eurekaServer" />
+        <module name="serviceFeign" />
+        <module name="serviceHi" />
+        <module name="serviceLucy" />
+        <module name="serviceMiya" />
+        <module name="serviceRibbon" />
+        <module name="serviceTurbine" />
+        <module name="serviceZuul" />
+        <module name="springcloud" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="configClient" target="1.8" />
+      <module name="configServer" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="eurekaClient" target="1.8" />
+      <module name="eurekaServer" target="1.8" />
+      <module name="serviceFeign" target="1.8" />
+      <module name="serviceHi" target="1.8" />
+      <module name="serviceLucy" target="1.8" />
+      <module name="serviceMiya" target="1.8" />
+      <module name="serviceRibbon" target="1.8" />
+      <module name="serviceTurbine" target="1.8" />
+      <module name="serviceZuul" target="1.8" />
+      <module name="springcloud" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

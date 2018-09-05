@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="serviceFeign:war">
+    <output-path>$PROJECT_DIR$/../springcloud/serviceFeign/target</output-path>
+    <root id="archive" name="service-feign-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="serviceFeign:war exploded" />
+    </root>
+  </artifact>
+</component>

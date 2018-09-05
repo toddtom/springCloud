@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../springcloud/configClient/configClient.iml" filepath="$PROJECT_DIR$/../springcloud/configClient/configClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springcloud/configServer/configServer.iml" filepath="$PROJECT_DIR$/../springcloud/configServer/configServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springcloud/eurekaClient/eurekaClient.iml" filepath="$PROJECT_DIR$/../springcloud/eurekaClient/eurekaClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springcloud/eurekaServer/eurekaServer.iml" filepath="$PROJECT_DIR$/../springcloud/eurekaServer/eurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springcloud/serviceFeign/serviceFeign.iml" filepath="$PROJECT_DIR$/../springcloud/serviceFeign/serviceFeign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springcloud/serviceHi/serviceHi.iml" filepath="$PROJECT_DIR$/../springcloud/serviceHi/serviceHi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springcloud/serviceLucy/serviceLucy.iml" filepath="$PROJECT_DIR$/../springcloud/serviceLucy/serviceLucy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springcloud/serviceMiya/serviceMiya.iml" filepath="$PROJECT_DIR$/../springcloud/serviceMiya/serviceMiya.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springcloud/serviceRibbon/serviceRibbon.iml" filepath="$PROJECT_DIR$/../springcloud/serviceRibbon/serviceRibbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springcloud/serviceTurbine/serviceTurbine.iml" filepath="$PROJECT_DIR$/../springcloud/serviceTurbine/serviceTurbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springcloud/serviceZuul/serviceZuul.iml" filepath="$PROJECT_DIR$/../springcloud/serviceZuul/serviceZuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springcloud/springcloud.iml" filepath="$PROJECT_DIR$/../springcloud/springcloud.iml" />
+    </modules>
+  </component>
+</project>

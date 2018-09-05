@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../springcloud" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../springcloud/pom.xml" />
+        <option value="$PROJECT_DIR$/../springcloud/eurekaServer/pom.xml" />
+        <option value="$PROJECT_DIR$/../springcloud/eurekaClient/pom.xml" />
+        <option value="$PROJECT_DIR$/../springcloud/serviceRibbon/pom.xml" />
+        <option value="$PROJECT_DIR$/../springcloud/serviceFeign/pom.xml" />
+        <option value="$PROJECT_DIR$/../springcloud/serviceZuul/pom.xml" />
+        <option value="$PROJECT_DIR$/../springcloud/configServer/pom.xml" />
+        <option value="$PROJECT_DIR$/../springcloud/configClient/pom.xml" />
+        <option value="$PROJECT_DIR$/../springcloud/serviceHi/pom.xml" />
+        <option value="$PROJECT_DIR$/../springcloud/serviceMiya/pom.xml" />
+        <option value="$PROJECT_DIR$/../springcloud/serviceLucy/pom.xml" />
+        <option value="$PROJECT_DIR$/../springcloud/serviceTurbine/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/../springcloud/out" />
+  </component>
+</project>
